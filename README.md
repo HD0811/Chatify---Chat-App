@@ -3,7 +3,10 @@ Deployed on Render : https://chatify-chat-app-3gtn.onrender.com/login
 Login Page:
 ![image](https://github.com/user-attachments/assets/6e3e1ca2-4f56-4694-894d-faa206322623)
 
-Page:
+Chat Page:
+![image](https://github.com/user-attachments/assets/0cba07dc-f9cd-421e-a7a7-f84af5e6b2d6)
+
+
 
 
 💬 Real-Time Chat Application
